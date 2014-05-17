@@ -1,0 +1,9 @@
+
+Command-Shift-R: run a single test (if run on an it block) or group of tests (if run on a describe block)
+Command-Shift-E: run the last test(s)
+Command-Shift-T: run all the tests in current file
+
+
+
+LEFT OFF....
+8.2.5 Signin upon signup
