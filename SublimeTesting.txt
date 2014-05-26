@@ -6,4 +6,22 @@ Command-Shift-T: run all the tests in current file
 
 
 LEFT OFF....
-8.2.5 Signin upon signup
+9.4 Deleting users
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
