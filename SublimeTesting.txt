@@ -5,8 +5,8 @@ Command-Shift-T: run all the tests in current file
 
 
 
-LEFT OFF....
-9.4 Deleting users
+LEFT OFF....  at 10.3 
+all is passing
 
 
 
