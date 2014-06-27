@@ -5,7 +5,7 @@ Command-Shift-T: run all the tests in current file
 
 
 
-LEFT OFF....  at 10.3 
+LEFT OFF....   just before 11.2.3
 all is passing
 
 
